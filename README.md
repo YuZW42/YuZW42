@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Yu 
+## I am a student developer in Boston University
 
 <!--
 **YuZW42/YuZW42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
